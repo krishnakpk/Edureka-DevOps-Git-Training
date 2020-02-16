@@ -1,1 +1,2 @@
 Creating a second file to explore other scenarios.
+Learning stash pop.
