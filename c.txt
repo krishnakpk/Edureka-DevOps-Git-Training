@@ -1,4 +1,0 @@
-learning basics of GIT
-edureka
-change 1
-change 2
