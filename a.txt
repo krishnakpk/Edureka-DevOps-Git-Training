@@ -2,3 +2,4 @@ learning basics of GIT.
 learning diff.
 learning branching in GIT.
 learning stashing.
+learning automating jenkins build using the poll scm approach.
