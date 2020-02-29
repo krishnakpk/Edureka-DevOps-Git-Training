@@ -1,2 +1,3 @@
 Creating a second file to explore other scenarios.
 Learning stash pop.
+Learning to configure email notifications on jenkins.
