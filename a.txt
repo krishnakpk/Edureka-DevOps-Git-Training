@@ -2,4 +2,4 @@ learning basics of GIT.
 learning diff.
 learning branching in GIT.
 learning stashing.
-learning automating jenkins build using the poll scm approach.
+learning automating jenkins build using the poll scm approach on March 1,2020.
